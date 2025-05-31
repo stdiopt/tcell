@@ -19,7 +19,7 @@ package tcell
 
 import (
 	// import the stock terminals
-	_ "github.com/gdamore/tcell/v2/terminfo/base"
+	_ "github.com/stdiopt/tcell/terminfo/base"
 )
 
 // initialize is used at application startup, and sets up the initial values

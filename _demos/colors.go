@@ -29,7 +29,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/gdamore/tcell/v2"
+	"github.com/stdiopt/tcell"
 )
 
 var red = int32(rand.Int() % 256)

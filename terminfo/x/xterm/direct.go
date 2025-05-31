@@ -20,7 +20,7 @@
 
 package xterm
 
-import "github.com/gdamore/tcell/v2/terminfo"
+import "github.com/stdiopt/tcell/terminfo"
 
 func init() {
 

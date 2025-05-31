@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gdamore/tcell/v2"
-	"github.com/gdamore/tcell/v2/views"
+	"github.com/stdiopt/tcell"
+	"github.com/stdiopt/tcell/views"
 )
 
 var app = &views.Application{}

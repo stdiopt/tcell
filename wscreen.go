@@ -25,7 +25,7 @@ import (
 	"syscall/js"
 	"unicode/utf8"
 
-	"github.com/gdamore/tcell/v2/terminfo"
+	"github.com/stdiopt/tcell/terminfo"
 )
 
 func NewTerminfoScreen() (Screen, error) {
